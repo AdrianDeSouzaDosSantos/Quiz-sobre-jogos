@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\Quiz Programação\Quiz Programação\bin\Release\netcoreapp3.1\Quiz Programação.exe
+C:\Users\Admin\source\repos\Quiz Programação\Quiz Programação\bin\Release\netcoreapp3.1\Quiz Programação.deps.json
+C:\Users\Admin\source\repos\Quiz Programação\Quiz Programação\bin\Release\netcoreapp3.1\Quiz Programação.runtimeconfig.json
+C:\Users\Admin\source\repos\Quiz Programação\Quiz Programação\bin\Release\netcoreapp3.1\Quiz Programação.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Quiz Programação\Quiz Programação\bin\Release\netcoreapp3.1\Quiz Programação.dll
+C:\Users\Admin\source\repos\Quiz Programação\Quiz Programação\bin\Release\netcoreapp3.1\Quiz Programação.pdb
+C:\Users\Admin\source\repos\Quiz Programação\Quiz Programação\obj\Release\netcoreapp3.1\Quiz Programação.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Quiz Programação\Quiz Programação\obj\Release\netcoreapp3.1\Quiz_Programação.Form1.resources
+C:\Users\Admin\source\repos\Quiz Programação\Quiz Programação\obj\Release\netcoreapp3.1\Quiz_Programação.Properties.Resources.resources
+C:\Users\Admin\source\repos\Quiz Programação\Quiz Programação\obj\Release\netcoreapp3.1\Quiz_Programação.Quiz jogos programação.resources
+C:\Users\Admin\source\repos\Quiz Programação\Quiz Programação\obj\Release\netcoreapp3.1\Quiz Programação.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Quiz Programação\Quiz Programação\obj\Release\netcoreapp3.1\Quiz Programação.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Quiz Programação\Quiz Programação\obj\Release\netcoreapp3.1\Quiz Programação.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Quiz Programação\Quiz Programação\obj\Release\netcoreapp3.1\Quiz Programação.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Quiz Programação\Quiz Programação\obj\Release\netcoreapp3.1\Quiz Programação.dll
+C:\Users\Admin\source\repos\Quiz Programação\Quiz Programação\obj\Release\netcoreapp3.1\Quiz Programação.pdb
+C:\Users\Admin\source\repos\Quiz Programação\Quiz Programação\obj\Release\netcoreapp3.1\Quiz Programação.genruntimeconfig.cache
